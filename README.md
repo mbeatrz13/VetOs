@@ -170,12 +170,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou e
 
 ---
 
-## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-<div align="center">
-  Feito com ❤️ para a medicina veterinária
-</div>
